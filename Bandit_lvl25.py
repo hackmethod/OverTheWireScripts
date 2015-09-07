@@ -1,3 +1,11 @@
+####################################
+# File name: Bandit_lvl.py         #
+# Author: hellor00t                #
+# Website: hackmethod.com          #
+####################################
+
+#!/usr/bin/env python
+
 pin = 0
 password = 'UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ '
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
