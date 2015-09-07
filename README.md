@@ -1,2 +1,2 @@
 # BanditScripts
-Python Script hellr00t wrote to complete bandit level 25.
+Python Scripts written to complete bandit levels
