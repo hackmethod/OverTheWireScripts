@@ -2,6 +2,7 @@
 # File name: Bandit_lvl.py         #
 # Author: hellor00t                #
 # Website: hackmethod.com          #
+# Date Created: Sep 5th, 2015      #
 ####################################
 
 #!/usr/bin/env python
