@@ -1,5 +1,5 @@
 ####################################
-# File name: Bandit_lvl25.py         #
+# File name: Bandit_lvl25.py       #
 # Author: hellor00t                #
 # Website: hackmethod.com          #
 # Date Created: Sep 5th, 2015      #
